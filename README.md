@@ -1,0 +1,3 @@
+# Tales
+
+larsensolutions.no blog
